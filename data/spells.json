@@ -19,19 +19,19 @@ var spelldata = {
                 "roll": "10d8"
             },
             {
-                "name": "Absorb Elements",
+                "name": "Поглощение стихий",
                 "source": "EEPC",
                 "level": "1",
                 "school": "A",
-                "time": "1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage",
-                "range": "Self",
+                "time": "1 реакция, которую вы совершаете, получив урон звуком, кислотой, огнём, холодом или электричеством",
+                "range": "На себя",
                 "components": "S",
-                "duration": "1 round",
+                "duration": "1 раунд",
                 "classes": "Druid, Ranger, Wizard, Fighter (Eldritch Knight)",
                 "text": [
-                    "The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.",
+                    "Заклинание поглощает часть энергии, направленной на вас, ослабляя эффект и запасая эту энергию для использования во время следующей рукопашной атаки. Вы получаете до начала своего следующего хода сопротивление к тому виду урона, который спровоцировал данное заклинание. Кроме того, когда вы впервые попадаете рукопашной атакой в следующем ходу, цель получает дополнительный урон 1d6 этого вида, после чего заклинание заканчивается.",
                     "",
-                    "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.",
+                    "На больших уровнях: Если вы накладываете это заклинание, используя ячейку 2 уровня или выше, то дополнительный урон увеличивается на 1d6 за каждый уровень ячейки выше первого.",
                     "",
                     "This spell can be found in the Elemental Evil Player's Companion"
                 ],
